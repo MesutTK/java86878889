@@ -5,5 +5,5 @@ public class FirstClass {
         System.out.println("Hello World!");
         System.out.println("This is new update on local master branch");
         System.out.println("this is third commit from local");
-    }
+        System.out.println("remote master update");
 }
